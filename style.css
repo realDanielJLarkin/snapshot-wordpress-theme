@@ -1,0 +1,11 @@
+/*
+Theme Name: Snapshot
+Text Domian: Snapshot
+Version: 1.0
+Description: Custom theme for photography stores.
+Author: LRKN Dev Studio
+*/
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
