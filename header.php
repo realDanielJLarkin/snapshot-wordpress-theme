@@ -8,7 +8,7 @@
         wp_head()
     ?> 
 </head>
-<body class="h-full">
+<body class="h-screen">
 <div class="bg-white">
   <header class="absolute inset-x-0 top-0 z-50">
     
